@@ -1,0 +1,3 @@
+addition("5+6" )
+subtraction("5-6)
+.....
