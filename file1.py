@@ -12,6 +12,7 @@ for j in range(5)
         if i==1:
             print("output is equal");
 print(hello)
+print(good morning)
 
         
 
